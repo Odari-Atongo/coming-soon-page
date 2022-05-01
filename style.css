@@ -8,7 +8,6 @@
 }
 body{
     background-image: url(./images/bg-pattern-desktop.svg);
-    height: 100%;
     background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -25,8 +24,8 @@ body{
    
   }
 /*hero image*/
-.image img{
-    height: 100%; 
+.image{
+    height: 50%; 
     width: 100%;
     object-fit: contain;
 }
